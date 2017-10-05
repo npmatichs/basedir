@@ -1,0 +1,23 @@
+{
+  "name": "basedir",
+  "version": "1.0.0",
+  "description": "Record root path dirname to a module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npmatichs/basedir.git"
+  },
+  "keywords": [
+    "nodejs",
+    "dirname"
+  ],
+  "author": "wickd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npmatichs/basedir/issues"
+  },
+  "homepage": "https://github.com/npmatichs/basedir#readme"
+}
