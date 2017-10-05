@@ -16,6 +16,6 @@ let baseDir = require('basedir');
 baseDir.set(__dirname);
 
 // somewhere.js
-const __baseDir = require('basedir');
+const __baseDir = require('basedir').get();
 
 ```

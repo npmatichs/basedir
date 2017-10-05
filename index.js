@@ -10,4 +10,4 @@ let _basedir;
 exports.set = path => _basedir = path;
 
 /** getter base dir path */
-exports.get = _basedir;
+exports.get = () => _basedir;
